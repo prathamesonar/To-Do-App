@@ -1,6 +1,6 @@
 # 📝 To-Do App – React + TailwindCSS
 
-A modern and minimal **To-Do List application** built using **React** and **TailwindCSS**. This app allows users to add, mark, and delete tasks with an elegant and responsive UI.
+A  **To-Do List application** built using **React** and **TailwindCSS**. This app allows users to add, mark, and delete tasks with an elegant and responsive UI.
 
 ---
 
