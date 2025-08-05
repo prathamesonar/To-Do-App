@@ -20,7 +20,3 @@ A  **To-Do List application** built using **React** and **TailwindCSS**. This ap
 ![Preview Screenshot](screenshot.png)  
 
 
----
-
-## 📁 Project Structure
-
