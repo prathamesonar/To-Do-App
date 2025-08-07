@@ -11,7 +11,6 @@ A  **To-Do List application** built using **React** and **TailwindCSS**. This ap
 - 🗑️ Delete tasks
 - 🌙 Clean UI with TailwindCSS
 - 💡 Built using React functional components and hooks
-- 💾 Optional: Persist tasks using localStorage
 
 ---
 
