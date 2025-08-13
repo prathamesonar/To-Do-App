@@ -63,20 +63,3 @@ In the project directory, you can run the following commands:
 
 ---
 
-## 📂 Project Structure
-to-do-app/
-|-- public/
-|   `-- vite.svg
-|-- src/
-|   |-- App.jsx
-|   |-- index.css
-|   |-- main.jsx
-|   `-- TodoItem.jsx
-|-- .gitignore
-|-- eslint.config.js
-|-- index.html
-|-- package-lock.json
-|-- package.json
-|-- README.md
-|-- screenshot.png
-`-- vite.config.js
