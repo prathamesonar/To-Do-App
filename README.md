@@ -26,8 +26,6 @@ A simple and elegant To-Do List application built with React and TailwindCSS. Th
 - **React**: A JavaScript library for building user interfaces.
 - **TailwindCSS**: A utility-first CSS framework for rapid UI development.
 - **Vite**: A next-generation front-end tooling to for a faster and leaner development experience.
-- **ESLint**: A tool for identifying and reporting on patterns in ECMAScript/JavaScript code.
-
 ---
 
 ## ⚙️ Getting Started
@@ -57,9 +55,5 @@ A simple and elegant To-Do List application built with React and TailwindCSS. Th
 In the project directory, you can run the following commands:
 
 -   `npm run dev`: Runs the app in development mode. Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
--   `npm run build`: Builds the app for production to the `dist` folder.
--   `npm run lint`: Lints the project files using ESLint.
--   `npm run preview`: Serves the production build locally for preview.
-
 ---
 
