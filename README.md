@@ -56,3 +56,20 @@ In the project directory, you can run:
 
 -   `npm run dev`: Runs the app in the development mode.
 ---
+## 📂 Project Structure
+to-do-app/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── components/
+│   │   └── TodoItem.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .eslintrc.cjs
+├── .gitignore
+├── index.html
+├── package.json
+├── postcss.config.js
+├── README.md
+└── tailwind.config.js
