@@ -26,8 +26,6 @@ A **To-Do List application** built using **React** and **TailwindCSS**. This app
 - **React**: A JavaScript library for building user interfaces.
 - **TailwindCSS**: A utility-first CSS framework for rapid UI development.
 - **Vite**: A fast build tool for modern web development.
-- **ESLint**: A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
-
 ---
 
 ## ⚙️ Getting Started
