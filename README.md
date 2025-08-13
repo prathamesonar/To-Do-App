@@ -57,26 +57,4 @@ A **To-Do List application** built using **React** and **TailwindCSS**. This app
 In the project directory, you can run:
 
 -   `npm run dev`: Runs the app in the development mode.
--   `npm run build`: Builds the app for production to the `dist` folder.
--   `npm run lint`: Lints the code using ESLint.
--   `npm run preview`: Serves the production build locally.
-
 ---
-
-## 📂 Project Structure
-to-do-app/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── components/
-│   │   └── TodoItem.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .eslintrc.cjs
-├── .gitignore
-├── index.html
-├── package.json
-├── postcss.config.js
-├── README.md
-└── tailwind.config.js
