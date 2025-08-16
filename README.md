@@ -3,7 +3,6 @@
 A simple and elegant To-Do List application built with React and TailwindCSS. This application allows users to add, edit, mark as complete, and delete their tasks.
 
 ---
-
 ## 🚀 Features
 
 - ✅ **Add new tasks:** Quickly add new to-dos to your list.
